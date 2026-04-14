@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm currently using Github to complete [learn-to-cloud](https://learntocloud.guide/).
+> ```LLMs, Agents and LLMOPs```
+
+[srachuri308@gmail.com](mailto:srachuri308@gmail.com)
